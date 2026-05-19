@@ -37,5 +37,5 @@ The purpose is to provide hospital administrators with actionable insights into 
   - Identify departments with high referral rates (e.g., General Practice, Orthopedics)
 
 
-## 6. Example
+## 6. Demo
 ![Dashboard Preview](https://github.com/AbhaSingh09/Hospital-Emergency-Room-Dashboard/blob/main/HOSPITAL%20EMERGENCY%20ROOM%20DASHBOARD.png)
