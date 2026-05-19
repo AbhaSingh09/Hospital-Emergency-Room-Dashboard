@@ -3,7 +3,7 @@
 ## 1. Project Title
 Hospital Emergency Room Dashboard
 
-## 2. Short Description / Purpose
+## 2. Purpose
 A healthcare analytics dashboard designed to monitor **emergency room performance, patient demographics, and operational efficiency**.  
 The purpose is to provide hospital administrators with actionable insights into patient flow, wait times, satisfaction, and referral patterns.
 
@@ -17,7 +17,7 @@ The purpose is to provide hospital administrators with actionable insights into 
 - Hospital Emergency Room dataset (monthly patient records for July 2024)  
 - Includes fields such as **Patient ID, Age, Gender, Race, Admission Status, Wait Time, Satisfaction Score, Referral Department, Day & Hour of Visit**
 
-## 5. Features / Highlights
+## 5. Features 
 - **Business Problem:** Hospitals need to track ER efficiency, patient satisfaction, and demographic distribution to improve healthcare delivery.  
 - **Goal of Dashboard:** Provide a **monthly view** of ER operations to identify bottlenecks, improve patient care, and optimize resource allocation.  
 - **Key Visuals:**
@@ -38,4 +38,4 @@ The purpose is to provide hospital administrators with actionable insights into 
 
 
 ## 6. Example
-![Dashboard Preview]( )
+![Dashboard Preview](https://github.com/AbhaSingh09/Hospital-Emergency-Room-Dashboard/blob/main/HOSPITAL%20EMERGENCY%20ROOM%20DASHBOARD.png)
