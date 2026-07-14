@@ -8,9 +8,9 @@ A healthcare analytics dashboard designed to monitor **emergency room performanc
 The purpose is to provide hospital administrators with actionable insights into patient flow, wait times, satisfaction, and referral patterns.
 
 ## 3. Tech Stack (Key Technologies Used)
-- Power BI / Tableau / Excel (for visualization)
+- Power BI (for visualization)
 - SQL (for querying and preparing patient data)
-- Python / Pandas (for preprocessing, if applicable)
+- Python(for preprocessing)
 - GitHub (for version control and documentation)
 
 ## 4. Data Source
